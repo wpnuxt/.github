@@ -11,5 +11,5 @@ Supports Gutenberg blocks, allowing you to provide custom components for each bl
 Thank you for your interest in contributing to our community. We invite you to create github issues ans pull requests on the main github repo. we will add more about contrbuting soon   
 
 ## 👩‍💻 Useful resources
---  Docs can be found at [docs.wpnuxt.com] 
+--  Docs can be found at [wpnuxt.com](https://wpnuxt.com/getting-started/installation)
 
