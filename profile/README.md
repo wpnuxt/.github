@@ -1,8 +1,4 @@
-## Hi there 👋
-
-🙋‍♀️ WPNuxt - A short introduction
-
-Nuxt 3 + headless WordPress
+Nuxt + headless WordPress
 
 Easily fetch content from WordPress using composables and render it with Nuxt 3 components.
 Supports Gutenberg blocks, allowing you to provide custom components for each block type.
